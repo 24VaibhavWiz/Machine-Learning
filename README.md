@@ -1,2 +1,2 @@
 # FML
-Machine Learning in R
+Introduction To Statistical Learning in R
